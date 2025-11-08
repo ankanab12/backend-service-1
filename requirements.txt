@@ -4,3 +4,4 @@ dnspython
 gunicorn
 flask-cors
 python-dotenv
+requests
